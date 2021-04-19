@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/share-survey-businesses/static/css/main.292a5afd.chunk.css",
+    "main.js": "/share-survey-businesses/static/js/main.732f0dfe.chunk.js",
+    "main.js.map": "/share-survey-businesses/static/js/main.732f0dfe.chunk.js.map",
+    "runtime-main.js": "/share-survey-businesses/static/js/runtime-main.1f8e1a10.js",
+    "runtime-main.js.map": "/share-survey-businesses/static/js/runtime-main.1f8e1a10.js.map",
+    "static/js/2.88795773.chunk.js": "/share-survey-businesses/static/js/2.88795773.chunk.js",
+    "static/js/2.88795773.chunk.js.map": "/share-survey-businesses/static/js/2.88795773.chunk.js.map",
+    "static/js/3.6bed292a.chunk.js": "/share-survey-businesses/static/js/3.6bed292a.chunk.js",
+    "static/js/3.6bed292a.chunk.js.map": "/share-survey-businesses/static/js/3.6bed292a.chunk.js.map",
+    "index.html": "/share-survey-businesses/index.html",
+    "static/css/main.292a5afd.chunk.css.map": "/share-survey-businesses/static/css/main.292a5afd.chunk.css.map",
+    "static/js/2.88795773.chunk.js.LICENSE.txt": "/share-survey-businesses/static/js/2.88795773.chunk.js.LICENSE.txt",
+    "static/media/kll_logo.061a2881.png": "/share-survey-businesses/static/media/kll_logo.061a2881.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f8e1a10.js",
+    "static/js/2.88795773.chunk.js",
+    "static/css/main.292a5afd.chunk.css",
+    "static/js/main.732f0dfe.chunk.js"
+  ]
+}
