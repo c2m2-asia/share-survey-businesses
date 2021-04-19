@@ -29,12 +29,12 @@ function App() {
         <img src={kllLogo} width="120" height="120" />
       </a>
       <h1 className="thank-you">सर्वेक्षणमा भाग लिनुभएकोमा धन्यबाद !</h1>
-      <h3>
+      <h3 style={{ marginLeft: "10vw", marginRight: "10vw" }}>
         तपाईँको यस सहयोगले नेपाली पर्यटन क्षेत्रको पुन:उत्थानलाई टेवा
         पुर्याउनेछ। यो सर्वेक्षण पर्यटन क्षेत्रमा कार्यरत अरूलाई पनि भर्न
         लगाउनुहोस्।
       </h3>
-      <p className="share-this">
+      <p className="share-this" style={{ marginLeft: "10vw", marginRight: "10vw" }}>
         यो फारम फेसबुक, भाइबर, व्हाट्स एप जस्ता सामाजिक संजालमा शेर (share) गर्न
         उपयुक्त चिन्हमा क्लिक (click) गर्नुहोस्।
       </p>
@@ -44,6 +44,9 @@ function App() {
           gap: "2rem",
           flexDirection: "row",
           justifyContent: "center",
+          flexWrap: "wrap",
+          marginLeft: '10vw',
+          marginRight: '10vw',
         }}
       >
         <div className="share-title">
